@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "livreur-nourriture-conduisant-scooter-boite-nourriture-portant-masque_1303-27703.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
